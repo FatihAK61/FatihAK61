@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Full Stack Developer** with **8+ years** of experience delivering secure, high-performance enterprise solutions in large-scale government systems.
+> **Senior Full Stack Developer** with **8+ years** of experience delivering secure, high-performance enterprise solutions in large-scale private systems.
 
 ```typescript
 const fatihAK = {
@@ -75,19 +75,6 @@ const fatihAK = {
 ### **Streaming & Big Data**
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatihAK61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=C9D1D9" alt="Fatih's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihAK61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihAK61&theme=tokyonight&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" alt="GitHub Streak"/>
-</div>
 
 ---
 
