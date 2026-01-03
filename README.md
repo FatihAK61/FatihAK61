@@ -153,8 +153,6 @@ Leadership:
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
 I'm always interested in discussing:
 - 💡 Innovative architecture patterns
 - 🔧 DevOps and automation strategies
@@ -164,8 +162,6 @@ I'm always interested in discussing:
 **Feel free to reach out for collaboration or just a tech chat!**
 
 [![Email](https://img.shields.io/badge/fatihak61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihak61@gmail.com)
-
-</div>
 
 ---
 
