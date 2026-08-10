@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Full Stack Developer** with **8+ years** of experience delivering secure, high-performance enterprise solutions in large-scale private systems.
+> **Senior Full Stack Developer** with **9+ years** of experience delivering secure, high-performance enterprise solutions in large-scale private systems.
 
 ```typescript
 const fatihAK = {
