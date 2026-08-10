@@ -21,7 +21,7 @@ const fatihAK = {
     location: "Ankara, Turkey 🇹🇷",
     role: "Senior Full Stack Developer (Java & .NET Specialist)",
     company: "Ministry of Interior, Turkey",
-    experience: "8+ years",
+    experience: "9+ years",
     architecture: ["Microservices", "Cloud-Native", "Distributed Systems"],
     passions: ["Clean Architecture", "SOLID Principles", "DevOps Culture"],
     availability: 99.9, // System uptime I maintain 🎯
